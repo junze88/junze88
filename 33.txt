@@ -1,0 +1,188 @@
+10551491 弹壳id
+https://mituan.zone/#/account/sign    （Smile/123456Qwe）
+云盘：邮箱/sunjunze0316
+https://fofa.info/ 邮箱/Sunjunze0316
+zoomeye：邮箱/sunjunze0316
+github：邮箱/sunjunze0316
+1/12/324457
+2/01/475625
+3/02/885197
+4/03/882939
+5/04/734224
+6/05/882986
+7/06/887982
+8/07/450035
+9/08/277571
+10/09/362930
+11/10/920751
+12/11/262036
+13/12/424311
+14/231/345078
+15/232/365072
+16/233/255952
+17/234/762940
+18/235/605648
+
+ziosongzio
+
+
+'or'='or'
+1' or 1=1 
+1=2 union select 1 from tables 
+
+m1-rds-infra
+
+cisp:
+https://www.kaoshixing.com/login/account/login/50733
+SUMING2022 
+sunjunz/CISP!%ze2022
+
+https://sg2plcpnl0111.prod.sin2.secureserver.net:2083/
+邮箱安全：https://www.secpulse.com/archives/135748.html
+91chinesebiz@gmail.com（142.250.141.26）邮件标题必须是：我要购买VIP赞助码！
+
+XDR调查：
+Gmorning:@Eriko Sunagawa SAN, @Hideki Yamauchi SAN,sorry to bother you and sorry to tell you so late,
+This is Junze Sun from Dalian Cyber security team,
+We see that XDR has generated one incident for LM user, 
+hope you can help to confirm some details with him. as follows,
+problem description:
+This problem often occurs due to misoperation (the user directly decompresses or opens it), but it still needs to be confirmed.
+Where is the mode_tkinter.exe file downloaded from?
+Or personally written?
+file location:
+"C:\Program Files (x86)\Java\jre1.8.0_202\bin\javaw.exe" -jar "C:\Users\akira.nishimura\AppData\Local\Temp\Temp1_deprecatedSun.zip\deprecatedSun.jar" 
+
+PC: JPDWB00125/10.128.0.63
+timestamp:Mar 8th 2023 17:41:33
+
+question:
+1.what  about  hi done?
+2.what about addr fires?
+
+"C:\WINDOWS\System32\WScript.exe" "C:\Users\hirmunak\Downloads\ProductCode.vbs"
+
+question: 
+1. Where did the user get these executable files?  From the Internet or wrote by the user himself?
+2. What is its purpose?
+3. If it was downloaded from the Internet and its purpose is unknown, please help remove it from our computer.
+
+Thank you !
+
+
+\\10.143.9.18\fileshare\共通\BITS大連IT相关\00.信息安全
+
+bits  防火墙：crawler
+u: raphael.abreu@sbibits.com
+p: SBIbits123$
+
+虚拟机凭证：junze.sun
+           junze.word
+Linux：
+10.143.22.114 & 10.143.22.115，用户已创建
+Username: junze.sun
+Password: RT#105398-junze.sun
+登录后可自行修改密码
+SPLUNK:
+邮箱；Junze.sun@2023
+10.143.22.115：
+http://bitdlniu07002.cn.sbibits.com
+http/https://10.143.22.115:8000：admin-changeme:8000(web):8089(server)：8090（wb管理）
+splukforwarder:splunkforwarder-administrator:8091
+转发和接受端口：9997
+告警邮箱：
+sa.cn.cybersecurity@sbibits.com
+7Z6kj8EUv4gM&jiD
+
+Darktrace :ps:Hard2guess!
+
+https://portal.secureworks.com/
+Secureworks(备用应用服务器：m1-rds-infra)
+3iEPW5*7
+(
+bitocxifw03_vsys2
+lmtopdsfw01a
+lmtopdsfw01b
+lmtopdwaf01a
+lmtopdmgr01a
+上面五台是LM的设备
+bitocxifw02a 这台是BITS的设备
+除了BITS和LM的设备之外都是SEC的设备
+
+)
+to:
+   ・ 小西 宏（hkonishi@sbigroup.co.jp）
+   ・土屋 智（sattsuch@sbigroup.co.jp）
+   ・新井 優斗（yutarai@sbigroup.co.jp）
+   ・鈴木 友也（tomoyasu@sbigroup.co.jp）
+   ・安藤 一貴（kazuando@sbigroup.co.jp）
+   ・lm-system-kanri@sbigroup.co.jp
+CC:
+    cyber-security-team@sbibits.com
+    dl.cn.cybersecurity@sbibits.com
+1，表格里面SEC的告警只录入，不做任何其他动作，不用写DL action 和Close-note字段
+2，表格里面LM的告警录入，调查，写DL action 和Close-note字段
+3，表格里面BITS的告警录入，调查，写DL action 和Close-note字段，同时要在secureworks里面关闭并附上close-note的内容。
+4，LM的告警如果是被防火墙阻断了，不需要调查，表格里直接写上“This event blocked by FW” 在Close-note那一列，“This event blocked by FW ，no action required” 在DL action那一列，每天下班前发给LM的邮件在详情最后加上一句结论：“该事件已被防火墙阻塞，不需要调查”。表格里LM告警那一行离线excel作为邮件附件。
+5，LM的告警如果是没被防火墙阻断，就需要调查，在表里DL action那一列写上我们调查的log,然后每天下班前发给LM的邮件在详情后面附上我们的调查建议。表格里LM告警那一行离线excel作为邮件附件。
+6，BITS的告警如果是被防火墙阻断了，不需要调查，表格里直接写上“This event blocked by FW ” 在Close-note那一列，“This event blocked by FW ，no action required” 在DL action那一列。在secureworks里面关闭这个告警并附上表格close-note里的内容。
+7，BITS的告警如果是没被防火墙阻断，就需要调查，在表里DL action那一列写上我们调查的log，调查完总结一下写个结论在close-note那一列。在secureworks里面关闭这个告警并附上表格close-note里的内容。
+
+
+
+
+
+Hi,Yasushiro.Ban-san, sorry to bother you, I am junze from Cyber Security team, would like to check a XDR alert with you.
+
+adds:"C:\WINDOWS\System32\WScript.exe" "C:\Users\Yasushiro.Ban\Documents\temp\prt\prt001.vbs" 
+times:May 1st 2023 09:20:14
+ip:10.128.121.141
+
+question:
+1、what have you done that times?
+2、how about prt001.vbs files?
+
+
+
+
+2021-10-04T20:56:50.189052+09:00 p1-vc-dmz-lb001 auditd[31423]: dispatch err (pipe full) event lost
+
+
+XDR  upgrade  version:7.6.2.50705  
+We have done the test recently going to do the latest version ungrade for LM XDR agents, here is the binary file , only the host LMIZ-SYS0228 (10.133.62.77) need to use the old file(旧) to upgrade  , and the rest hosts are all need to use the binary file (新)from the new tenant.
+
+Could you help show us the Host List that you don't need us to upgrade, and we will exclude those and do the rest upgrade.Thanks!
+
+agent upgrade for ver.7.7.1.62043
+
+Morning, we have created the latest version agent upgrade for Tokyo Cyber team, please help observe if there is any problem for 1 week, thank you.
+
+-----------------------------------
+Vulnerability Scanning from 103.108.142.15
+
+
+-------------------------------------------
+
+
+XDR Agent Upgrade for ver 7.8.0.64264
+https://drive.google.com/drive/folders/1GCNAulnan3ZVT9raMO6-vetKPMG62afJ
+
+@hitomu.nashiki-san, Good morning, we will start XDR agent upgrade this week, 
+could you help provide the list that no need to upgrade, many thanks !
+And Here is the binary file.
+
+Hi taejun.yu san，im  junze  from  security team
+I got an XDR alert about you
+Time: Mar 31st 2023 10:55:37
+ip:  10.128.0.198/JPDWA00086
+Address:
+"C:\WINDOWS\System32\WScript.exe" "C:\Users\taejun.yu\Downloads\CCS_Update.vbs" 
+question:
+1. what about WScript.exe and CCS_Update.vbs?
+2.whats you done?
+
+
+
+
+
+
