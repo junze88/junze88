@@ -30,11 +30,9 @@ ziosongzio
 1' or 1=1 
 1=2 union select 1 from tables 
 
-m1-rds-infra
 
 cisp:
 https://www.kaoshixing.com/login/account/login/50733
-SUMING2022 
 sunjunz/CISP!%ze2022
 
 https://sg2plcpnl0111.prod.sin2.secureserver.net:2083/
@@ -96,42 +94,6 @@ sa.cn.cybersecurity@sbibits.com
 
 Darktrace :ps:Hard2guess!
 
-https://portal.secureworks.com/
-Secureworks(备用应用服务器：m1-rds-infra)
-3iEPW5*7
-(
-bitocxifw03_vsys2
-lmtopdsfw01a
-lmtopdsfw01b
-lmtopdwaf01a
-lmtopdmgr01a
-上面五台是LM的设备
-bitocxifw02a 这台是BITS的设备
-除了BITS和LM的设备之外都是SEC的设备
-
-)
-to:
-   ・ 小西 宏（hkonishi@sbigroup.co.jp）
-   ・土屋 智（sattsuch@sbigroup.co.jp）
-   ・新井 優斗（yutarai@sbigroup.co.jp）
-   ・鈴木 友也（tomoyasu@sbigroup.co.jp）
-   ・安藤 一貴（kazuando@sbigroup.co.jp）
-   ・lm-system-kanri@sbigroup.co.jp
-CC:
-    cyber-security-team@sbibits.com
-    dl.cn.cybersecurity@sbibits.com
-1，表格里面SEC的告警只录入，不做任何其他动作，不用写DL action 和Close-note字段
-2，表格里面LM的告警录入，调查，写DL action 和Close-note字段
-3，表格里面BITS的告警录入，调查，写DL action 和Close-note字段，同时要在secureworks里面关闭并附上close-note的内容。
-4，LM的告警如果是被防火墙阻断了，不需要调查，表格里直接写上“This event blocked by FW” 在Close-note那一列，“This event blocked by FW ，no action required” 在DL action那一列，每天下班前发给LM的邮件在详情最后加上一句结论：“该事件已被防火墙阻塞，不需要调查”。表格里LM告警那一行离线excel作为邮件附件。
-5，LM的告警如果是没被防火墙阻断，就需要调查，在表里DL action那一列写上我们调查的log,然后每天下班前发给LM的邮件在详情后面附上我们的调查建议。表格里LM告警那一行离线excel作为邮件附件。
-6，BITS的告警如果是被防火墙阻断了，不需要调查，表格里直接写上“This event blocked by FW ” 在Close-note那一列，“This event blocked by FW ，no action required” 在DL action那一列。在secureworks里面关闭这个告警并附上表格close-note里的内容。
-7，BITS的告警如果是没被防火墙阻断，就需要调查，在表里DL action那一列写上我们调查的log，调查完总结一下写个结论在close-note那一列。在secureworks里面关闭这个告警并附上表格close-note里的内容。
-
-
-
-
-
 Hi,Yasushiro.Ban-san, sorry to bother you, I am junze from Cyber Security team, would like to check a XDR alert with you.
 
 adds:"C:\WINDOWS\System32\WScript.exe" "C:\Users\Yasushiro.Ban\Documents\temp\prt\prt001.vbs" 
@@ -142,29 +104,17 @@ question:
 1、what have you done that times?
 2、how about prt001.vbs files?
 
-
-
-
-2021-10-04T20:56:50.189052+09:00 p1-vc-dmz-lb001 auditd[31423]: dispatch err (pipe full) event lost
-
-
 XDR  upgrade  version:7.6.2.50705  
 We have done the test recently going to do the latest version ungrade for LM XDR agents, here is the binary file , only the host LMIZ-SYS0228 (10.133.62.77) need to use the old file(旧) to upgrade  , and the rest hosts are all need to use the binary file (新)from the new tenant.
 
 Could you help show us the Host List that you don't need us to upgrade, and we will exclude those and do the rest upgrade.Thanks!
 
-agent upgrade for ver.7.7.1.62043
 
 Morning, we have created the latest version agent upgrade for Tokyo Cyber team, please help observe if there is any problem for 1 week, thank you.
-
------------------------------------
-Vulnerability Scanning from 103.108.142.15
 
 
 -------------------------------------------
 
-
-XDR Agent Upgrade for ver 7.8.0.64264
 https://drive.google.com/drive/folders/1GCNAulnan3ZVT9raMO6-vetKPMG62afJ
 
 @hitomu.nashiki-san, Good morning, we will start XDR agent upgrade this week, 
